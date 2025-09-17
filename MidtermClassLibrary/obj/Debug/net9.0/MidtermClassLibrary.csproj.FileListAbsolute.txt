@@ -1,0 +1,11 @@
+C:\Users\Student\Villareal\MidtermClassLibrary\bin\Debug\net9.0\MidtermClassLibrary.deps.json
+C:\Users\Student\Villareal\MidtermClassLibrary\bin\Debug\net9.0\MidtermClassLibrary.dll
+C:\Users\Student\Villareal\MidtermClassLibrary\bin\Debug\net9.0\MidtermClassLibrary.pdb
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.AssemblyInfo.cs
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.dll
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\refint\MidtermClassLibrary.dll
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.pdb
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\ref\MidtermClassLibrary.dll
