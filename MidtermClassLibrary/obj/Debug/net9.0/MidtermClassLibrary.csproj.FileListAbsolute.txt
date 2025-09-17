@@ -9,3 +9,7 @@ C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibr
 C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\refint\MidtermClassLibrary.dll
 C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.pdb
 C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\ref\MidtermClassLibrary.dll
+C:\Users\Student\Villareal\MidtermClassLibrary\bin\Debug\net9.0\MidtermClassLibrary.exe
+C:\Users\Student\Villareal\MidtermClassLibrary\bin\Debug\net9.0\MidtermClassLibrary.runtimeconfig.json
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.sourcelink.json
+C:\Users\Student\Villareal\MidtermClassLibrary\obj\Debug\net9.0\MidtermClassLibrary.genruntimeconfig.cache
