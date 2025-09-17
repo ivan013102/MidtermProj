@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MidtermClassLibrary.Models;
 
-namespace MidtermClassLibrary.Models
+namespace MidtermClassLibrary.DataStructures
 {
-    internal class ClassNode
+    public class ClassNode
     {
+        public ClassStudent Data { get; set; }
+        public ClassNode Next { get; set; }
+        public ClassNode Prev { get; set; }
+        public ClassNode(ClassStudent student)
+        {
+            Data = student;
+            Next = null;
+            Prev = null;
+        }
     }
 }
